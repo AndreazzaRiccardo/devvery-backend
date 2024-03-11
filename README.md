@@ -3,7 +3,6 @@
 <center/>
 <br><br>
 <p>I present to you the backend part of Devvery, our delivery app</p>
-<br><br>
 <p>Once registered, the user will be able to access the dashboard and modify their own data as well as the restaurant's data.</p>
 <br><br>
 <img src="https://github.com/AndreazzaRiccardo/devvery-backend/assets/136316597/8cee632b-b6cb-4bf9-a9ff-b306afaafeb9" />
@@ -15,3 +14,4 @@
 <p>From the sidebar, there will also be the option to access the orders page to view all new orders received, or the statistics page to check the restaurant's performance.</p>
 <br><br>
 <img src="https://github.com/AndreazzaRiccardo/devvery-backend/assets/136316597/e9fcd834-3964-4f36-8731-f87d93f9233c" />
+<br><br>
