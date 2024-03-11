@@ -249,6 +249,12 @@ th.d-none {
   }
 }
 
+.logo {
+  @media screen and (min-width: 766px) {
+    width: 50%;
+  }
+}
+
 
 // CHECKBOX RESTAURANT
 

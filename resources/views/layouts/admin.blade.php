@@ -30,7 +30,7 @@
         <header class="navbar sticky-top flex-md-nowrap py-1 shadow px-5 ms_bg-yellow align-items-center">
             <div class="row justify-content-between align-items-center flex-nowrap">
                 <a class="navbar-brand  me-0 px-3" href="http://localhost:4242/">
-                    <img class="w-50" src="{{ Vite::asset('resources\img\logotipo.png') }}" alt="Logo Devvery">
+                    <img class="logo" src="{{ Vite::asset('resources\img\logotipo.png') }}" alt="Logo Devvery">
                 </a>
                 <button class="ms_hamburger navbar-toggler position-relative d-md-none collapsed" type="button"
                     data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu"
