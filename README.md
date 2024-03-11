@@ -1,7 +1,7 @@
-<center align="center">
-  <img style="margin: 3rem 0" src="https://github.com/AndreazzaRiccardo/devvery-frontend/assets/136316597/e5d24fbf-3528-4a08-94ee-cc6270cc45dd" />
+<center>
+  <img src="https://github.com/AndreazzaRiccardo/devvery-frontend/assets/136316597/e5d24fbf-3528-4a08-94ee-cc6270cc45dd" />
 <center/>
-
+<br><br>
 <p>I present to you the backend part of Devvery, our delivery app</p>
 <br><br>
 <p>Once registered, the user will be able to access the dashboard and modify their own data as well as the restaurant's data.</p>
